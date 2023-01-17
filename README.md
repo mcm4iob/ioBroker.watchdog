@@ -37,7 +37,7 @@ This adapter monitores a configurable number of states. Depending on configurati
     ### **WORK IN PROGRESS**
 -->
 
-### 0.0.1-alpha.2 (2023-01-16)
+### **WORK IN PROGRESS**
 
 -   (mcm1957) initial dummy release
 
