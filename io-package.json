@@ -117,9 +117,7 @@
       "config": "json"
     },
     "dependencies": [
-      {
         "js-controller": ">=3.3.22"
-      }
     ],
     "globalDependencies": [
       {
